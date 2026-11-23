@@ -1,8 +1,12 @@
 /* Add CSS Styling */
 
-.odd-numbers {
+.odd-numbers{
     background-color: rgb(255, 168, 168);
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.big-odd {
+    font-size: 24px;
 }
 
 #number-2 {
